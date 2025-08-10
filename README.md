@@ -121,8 +121,8 @@ Always learning, always creating. 😄
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/ahlulmukh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahlulmukh&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlulmukh&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmuq&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmuq&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </p>
 
@@ -145,3 +145,4 @@ Always learning, always creating. 😄
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
