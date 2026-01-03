@@ -120,7 +120,7 @@ Always learning, always creating. 😄
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" class="d-flex justify-content-center align-items-center">
-  <a href="https://github.com/ahlulmukh">
+  <a href="https://github.com/ahmuq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmuq&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmuq&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
   </a>
@@ -128,22 +128,23 @@ Always learning, always creating. 😄
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://github.com/ahlulmukh" target="_blank">
+<a href="https://github.com/ahmuq" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/0xahmuq" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ahlulmukh" target="_blank">
+<a href="https://linkedin.com/in/ahmuq" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/ahlulmukh" target="_blank">
+<a href="https://www.facebook.com/ahmuq" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ahlulmukh" target="_blank">
+<a href="https://instagram.com/ahmuq" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
