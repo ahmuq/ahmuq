@@ -8,10 +8,10 @@ Always learning, always creating. 😄
 
 💖 if you like my script, Feel free to support me:
 
-- EVM : `0x72120c3c9cf3fee3ad57a34d5fcdbffe45f4ff28`
-- BTC: `bc1ppfl3w3l4spnda7lawlhlycwuq2ekz74c936c8emwfprfu9hyun6sq5k6xl`
-- SOL: `5jQMndHzWVH8MCitXdUEYmshJZXVKCzUG12mxJku4WdX`
-- TRC-20: `TL7NKm7KAYBWquWSGrwMXejFkQ8GjZravo`
+- EVM : `0x659d3099091937d5b1abab32aab4eac4c8902884`
+- BTC: `34frfNuDLzXiPj11mk1gQuXPEmpjwrcFe9`
+- SOL: `E4fKJCX4Srd5GYFbPDe8NkK6uEapsMS6sNz5ehqwEe18`
+- TRC-20: `TPTEcG7ASysPxtTPbkgs79vdsGNNH54B8W`
 - For Indonesian People [Saweria](https://saweria.co/ahlulmukh)
 
 ###
@@ -145,4 +145,5 @@ Always learning, always creating. 😄
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
